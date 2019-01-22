@@ -1,2 +1,2 @@
 # config
-Some configuration for bitunion
+Some configurations for bitunion
